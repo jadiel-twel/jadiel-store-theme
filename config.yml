@@ -1,0 +1,8 @@
+development:
+  password: shptka_26a4a771a1ce1109906df7211fc4a712
+  theme_id: "128638550171"
+  store: jadiel-twel-store.myshopify.com
+production:
+  password: shptka_26a4a771a1ce1109906df7211fc4a712
+  theme_id: "104997486747"
+  store: jadiel-twel-store.myshopify.com
