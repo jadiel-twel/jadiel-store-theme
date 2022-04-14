@@ -54,7 +54,6 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo": "",
           "logo_max_width": 100,
           "main_linklist": "main-menu",
           "message": false,
@@ -84,10 +83,10 @@
         "settings": {
           "image": "shopify:\/\/shop_images\/splashy-hand-cleaning.jpg",
           "layout": "left",
-          "title": "Higiene...",
+          "title": "Wash Your Hands",
           "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id nunc mauris. In hac habitasse platea dictumst. Etiam sit amet massa nec elit porta consequat.<\/p>",
-          "button_label": "Veja mais",
-          "button_link": "shopify:\/\/blogs\/news"
+          "button_label": "Read More",
+          "button_link": "shopify:\/\/blogs\/news\/test"
         }
       },
       "feature-columns": {
@@ -98,9 +97,9 @@
             "settings": {
               "enable_image": true,
               "image": "shopify:\/\/shop_images\/macbook-air-on-desk.jpg",
-              "title": "Mídia social",
+              "title": "Social Media",
               "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "button_label": "Veja mais",
+              "button_label": "Read more",
               "button_link": "shopify:\/\/blogs\/news"
             }
           },
@@ -109,9 +108,9 @@
             "settings": {
               "enable_image": true,
               "image": "shopify:\/\/shop_images\/couple-on-coffee-date.jpg",
-              "title": "Presenteie alguém",
+              "title": "Gift",
               "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id nunc mauris. In hac habitasse platea dictumst. Etiam sit amet massa nec elit porta consequat.<\/p>",
-              "button_label": "Veja mais",
+              "button_label": "Read More",
               "button_link": "shopify:\/\/products\/palha-italiana"
             }
           }
